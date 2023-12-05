@@ -1,3 +1,1 @@
-D:\projects\CaC\bin\resources
-
-Recursos adicionales
+D:\projects\CaC\src\resources
